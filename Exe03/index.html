@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Curso em Vídeo</title>
+  </head>
+  <body>
+    <header></header>
+    <section class="titulo">
+      <h1>Vamos Contar</h1>
+    </section>
+
+    <section class="foto">
+      <div class="hora">
+        <label>Início:</label>
+        <input class="inicio" type="number" /> <br />
+        <label>Fim: </label>
+        <input class="fim" type="number" /> <br />
+        <label>Passo:</label>
+        <input class="passo" type="number" /><br />
+        <button onclick="contar()">Contar</button>
+        <div class="resposta"></div>
+      </div>
+    </section>
+    <footer>
+      <p>Curso em vídeo</p>
+    </footer>
+    <script src="./index.js"></script>
+  </body>
+</html>

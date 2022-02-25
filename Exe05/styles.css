@@ -1,0 +1,42 @@
+body {
+  background: rgb(65, 48, 52);
+}
+
+section {
+  margin: auto;
+}
+
+.foto {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.titulo {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+.hora {
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2rem;
+}
+
+.resposta{
+  height: 150px;
+  width: 200px;
+  border: 1px solid black;
+  line-height: 1.2;
+
+}
+
+footer {
+  text-align: center;
+  color: white;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
