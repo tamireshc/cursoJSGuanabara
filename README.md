@@ -1,2 +1,2 @@
 # cursoJSGuanabara
-Exercício do curso de JavaScript do Gustavo Guanabara
+Exercícios do curso de JavaScript do Gustavo Guanabara
